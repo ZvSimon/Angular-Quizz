@@ -1,6 +1,6 @@
 import {computed, Injectable, signal} from '@angular/core';
 import {QuestionInterface} from "../types/question.interface";
-import {getMockQuestions} from "../components/data/questions.data";
+import {getMockQuestions} from "../data/questions.data";
 
 @Injectable({
   providedIn: 'root'

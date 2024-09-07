@@ -1,4 +1,4 @@
-import {QuestionInterface} from "../../types/question.interface";
+import {QuestionInterface} from "../types/question.interface";
 
 export function getMockQuestions(): QuestionInterface[] {
   return [
